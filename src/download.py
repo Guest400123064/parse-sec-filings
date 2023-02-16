@@ -18,7 +18,7 @@ from secedgar.exceptions import EDGARQueryError, NoFilingsError
 
 import random
 
-USER_AGENT = f"RandomUser{random.randint(0, 255)}@upenn.edu"
+USER_AGENT = "RandomUser{}@upenn.edu"
 
 DATA_DIR = pathlib.Path(__file__).parent.parent / "data"
 SAVE_DIR = DATA_DIR / "filings"
@@ -104,10 +104,10 @@ if __name__ == '__main__':
         ciks = [row[COMPANY_COL] for row in csv.DictReader(f)]
 
     # Fetch filings
-    fetcher_10k = Fetcher(SAVE_DIR, USER_AGENT, sec.FilingType.FILING_10K)
-    fetcher_20f = Fetcher(SAVE_DIR, USER_AGENT, sec.FilingType.FILING_20F)
-    fetcher_40f = Fetcher(SAVE_DIR, USER_AGENT, sec.FilingType.FILING_40F)
+    fetcher_10k = Fetcher(SAVE_DIR, USER_AGENT.format(random.randint(0, 255)), sec.FilingType.FILING_10K)
+    fetcher_20f = Fetcher(SAVE_DIR, USER_AGENT.format(random.randint(0, 255)), sec.FilingType.FILING_20F)
+    fetcher_40f = Fetcher(SAVE_DIR, USER_AGENT.format(random.randint(0, 255)), sec.FilingType.FILING_40F)
 
-    fetcher_10k.process(ciks)
+    # fetcher_10k.process(ciks)
     fetcher_20f.process(ciks)
     fetcher_40f.process(ciks)
