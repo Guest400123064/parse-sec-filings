@@ -1,0 +1,142 @@
+rank,company_name,symbol,mkt_cap,country,flag_public_mining,downloaded_filings
+1,BHP Group,BHP,127056405000,Australia,1,20-F
+2,Rio Tinto,RIO,90378756096,United Kingdom,1,20-F
+3,China Shenhua Energy,601088.SS,83994218913,China,1,NO-SEC-FILING
+4,Glencore,GLCNF,73285279744,Switzerland,1,NO-SEC-FILING
+5,Vale,VALE,59997003776,Brazil,1,20-F
+6,Nutrien,NTR,49565028352,Canada,1,40-F
+7,Maaden,1211.SR,48130032470,Saudi Arabia,1,NO-SEC-FILING
+8,Anglo American,AAL.L,42378879794,United Kingdom,1,NO-SEC-FILING
+9,Nornickel,GMKN.ME,42334721992,Russia,1,NO-SEC-FILING
+10,Freeport-McMoRan,FCX,40448339968,United States,1,10-K
+11,Fortescue,FMG.AX,36087303501,Australia,1,NO-SEC-FILING
+12,Southern Copper,SCCO,35322572800,United States,1,10-K
+13,Newmont,NEM,33072687104,United States,1,10-K
+14,Zijin Mining,601899.SS,31581863475,China,1,NO-SEC-FILING
+15,Barrick Gold,GOLD,26352289792,Canada,1,"20-F, 40-F"
+16,Franco-Nevada,FNV,23311841280,Canada,1,40-F
+17,Agnico Eagle Mines,AEM,18963372032,Canada,1,"20-F, 40-F"
+18,Coal India,COALINDIA.NS,17726631929,India,1,NO-SEC-FILING
+19,Teck Resources,TECK,17367357440,Canada,1,40-F
+20,Bayan Resources,BYAN.JK,14870746437,Indonesia,1,NO-SEC-FILING
+21,Wheaton Precious Metals,WPM,14069239808,Canada,1,40-F
+22,South32,S32.AX,12614650069,Australia,1,NO-SEC-FILING
+23,Antofagasta,ANTO.L,12504277610,United Kingdom,1,NO-SEC-FILING
+24,Vedanta,VEDL.NS,12003364723,India,1,NO-SEC-FILING
+25,Cameco,CCJ,11494453248,Canada,1,40-F
+26,First Quantum Minerals,FM.TO,11264056176,Canada,1,NO-SEC-FILING
+27,Shandong Gold Mining,600547.SS,10688647524,China,1,NO-SEC-FILING
+28,Newcrest Mining,NCM.AX,10364487697,Australia,1,NO-SEC-FILING
+29,Impala Platinum,IMP.JO,8733978500,South Africa,1,NO-SEC-FILING
+30,Boliden,BOL.ST,8432974387,Sweden,1,NO-SEC-FILING
+31,Gold Fields,GFI,7643182080,South Africa,1,20-F
+32,Mineral Resources,MIN.AX,7577329957,Australia,1,NO-SEC-FILING
+33,Ivanhoe Mines,IVN.TO,7492215042,Canada,1,NO-SEC-FILING
+34,Sibanye-Stillwater,SBSW,6560526336,South Africa,1,20-F
+35,Merdeka Copper Gold,MDKA.JK,6456406614,Indonesia,1,NO-SEC-FILING
+36,Metso Outotec (Mo Group),MOCORP.HE,6337767328,Finland,1,NO-SEC-FILING
+37,Washington H. Soul Pattinson and Company (WHSP),SOL.AX,6316632793,Australia,1,NO-SEC-FILING
+38,Royal Gold,RGLD,5937110528,United States,1,10-K
+39,AngloGold Ashanti,AU,5882402304,South Africa,1,20-F
+40,Northern Star,NST.AX,5859392894,Australia,1,NO-SEC-FILING
+41,OZ Minerals,OZL.AX,5777915290,Australia,1,NO-SEC-FILING
+42,Yancoal,YAL.AX,5767645983,Australia,1,NO-SEC-FILING
+43,Lynas,LYI.F,5165239920,Malaysia,1,NO-SEC-FILING
+44,Endeavour Mining,EDV.TO,5024563465,United Kingdom,1,NO-SEC-FILING
+45,National Mineral Development Corporation,NMDC.NS,4485045687,India,1,NO-SEC-FILING
+46,Yamana Gold,AUY,4285314304,Canada,1,40-F
+47,Kinross Gold,KGC,4266886400,Canada,1,40-F
+48,Lundin Mining,LUN.TO,3883743826,Canada,1,NO-SEC-FILING
+49,CSN Mineração,CMIN3.SA,3853496326,Brazil,1,NO-SEC-FILING
+50,Lithium Americas,LAC,3688474112,Canada,1,40-F
+51,KGHM Polska Miedź,KGHA.F,3622063051,Poland,1,NO-SEC-FILING
+52,Peabody Energy,BTU,3558647040,United States,1,10-K
+53,B2Gold,BTG,3326013440,Canada,1,40-F
+54,African Rainbow Minerals,ARI.JO,3271650800,South Africa,1,NO-SEC-FILING
+55,Alliance Resource Partners,ARLP,3262551808,United States,1,10-K
+56,Pan American Silver,PAAS,3147200512,Canada,1,40-F
+57,Exxaro Resources,EXX.JO,3059974800,South Africa,1,NO-SEC-FILING
+58,Iluka Resources,ILU.AX,2861966784,Australia,1,NO-SEC-FILING
+59,Alamos Gold,AGI,2815580160,Canada,1,"20-F, 40-F"
+60,Alumina Limited,AWC.AX,2807758457,Australia,1,NO-SEC-FILING
+61,Evolution Mining,EVN.AX,2699992837,Australia,1,NO-SEC-FILING
+62,Polymetal,PM6.F,2686898415,Cyprus,1,NO-SEC-FILING
+63,Arch Resources,ARCH,2631757312,United States,1,10-K
+64,Alpha Metallurgical Resources,AMR,2592724992,United States,1,10-K
+65,CONSOL Energy,CEIX,2533138432,United States,1,10-K
+66,Liontown Resources,LTR.AX,2424535616,Australia,1,NO-SEC-FILING
+67,Sigma Lithium,SGML,2255053568,Canada,1,40-F
+68,Hecla Mining,HL,2112236032,United States,1,10-K
+69,Triple Flag Precious Metals,TFPM.TO,1967286611,Canada,1,NO-SEC-FILING
+70,First Majestic Silver,AG,1919282048,Canada,1,40-F
+71,Warrior Met Coal,HCC,1646713600,United States,1,10-K
+72,Harmony Gold,HMY,1624744960,South Africa,1,20-F
+73,Lundin Gold,LUG.TO,1589334780,Canada,1,NO-SEC-FILING
+74,Sandstorm Gold,SAND,1566239744,Canada,1,40-F
+75,KIOCL,KIOCL.NS,1522865274,India,1,NO-SEC-FILING
+76,Evraz,EVZ.F,1466822907,Russia,1,NO-SEC-FILING
+77,Buenaventura Mining Company,BVN,1442646144,Peru,1,20-F
+78,Hindustan Copper,HINDCOPPER.NS,1399866484,India,1,NO-SEC-FILING
+79,Uranium Energy,UEC,1386096896,United States,1,10-K
+80,NLC India,NLCINDIA.NS,1351669364,India,1,NO-SEC-FILING
+81,Compass Minerals,CMP,1337061504,United States,1,10-K
+82,Koza Gold,KOZAL.IS,1318667754,Turkey,1,NO-SEC-FILING
+83,Compañía de Acero del Pacífico,CAP.SN,1259197200,Chile,1,NO-SEC-FILING
+84,Mechel PAO,MTL,1206171008,Russia,1,20-F
+85,MAG Silver,MAG,1145771776,Canada,1,"20-F, 40-F"
+86,Energy Fuels,UUUU,1140864640,United States,1,10-K
+87,Denison Mines,DNN,1088438784,Canada,1,"20-F, 40-F"
+88,Jastrzebska Spólka Weglowa,JSW.WA,1069456673,Poland,1,NO-SEC-FILING
+89,U.S. Silica,SLCA,1036622848,United States,1,10-K
+90,Piedmont Lithium,PLL,1025975424,Australia,1,"10-K, 20-F"
+91,Orla Mining,ORLA,1021322304,Canada,1,40-F
+92,BEML,BEML.NS,989395681,India,1,NO-SEC-FILING
+93,Centerra Gold,CGAU,986740288,Canada,1,40-F
+94,Seabridge Gold,SA,966536320,Canada,1,"20-F, 40-F"
+95,Ivanhoe Electric,IE,938167872,Canada,1,NO-SEC-FILING
+96,ioneer,IONR,897167680,Australia,1,NO-SEC-FILING
+97,Standard Lithium,SLI,863436480,Canada,1,40-F
+98,SilverCrest Metals,SILV,783197888,Canada,1,40-F
+99,Coeur Mining,CDE,761149632,United States,1,10-K
+100,Nexa Resources,NEXA,735036480,Luxembourg,1,20-F
+101,Fortuna Silver Mines,FSM,662620480,Canada,1,40-F
+102,Gujarat Mineral Development,GMDCLTD.NS,658377421,India,1,NO-SEC-FILING
+103,New Found Gold,NFGC,618120896,Canada,1,40-F
+104,Endeavour Silver,EXK,534753760,Canada,1,40-F
+105,Maverix Metals,MMX,509322400,Canada,1,40-F
+106,DRDGOLD,DRD,470170848,South Africa,1,20-F
+107,Patriot Battery Metals,PMET.V,457382197,Canada,1,NO-SEC-FILING
+108,American Battery Technology Company,ABML,440686816,United States,1,10-K
+109,MOIL,MOIL.NS,433198240,India,1,NO-SEC-FILING
+110,New Pacific Metals,NEWP,404458048,Canada,1,40-F
+111,Arizona Metals,AMC.V,386952890,Canada,1,NO-SEC-FILING
+112,Nouveau Monde Graphite,NMG,338948384,Canada,1,40-F
+113,PolyMet,PLM,329780736,Canada,1,"20-F, 40-F"
+114,NACCO Industries,NC,313202368,United States,1,10-K
+115,Taseko Mines,TGB,290445568,Canada,1,"20-F, 40-F"
+116,Argonaut Gold,AR.TO,268771522,United States,1,NO-SEC-FILING
+117,Marathon Gold,MOZ.TO,267358007,Canada,1,NO-SEC-FILING
+118,Hallador Energy Company,HNRG,217685152,United States,1,10-K
+119,Gatos Silver,GATO,194267936,United States,1,10-K
+120,Western Copper and Gold,WRN,193885824,Canada,1,"20-F, 40-F"
+121,Northern Dynasty Minerals,NAK,155828448,Canada,1,"20-F, 40-F"
+122,McEwen Mining,MUX,146550352,Canada,1,10-K
+123,Hycroft Mining,HYMC,143793360,United States,1,10-K
+124,Platinum Group Metals,PLG,137205168,Canada,1,"20-F, 40-F"
+125,Tanzanian Gold Corporation,TRX,132935944,Canada,1,20-F
+126,Prakash Industries,PRAKASH.NS,132878809,India,1,NO-SEC-FILING
+127,Americas Gold and Silver Corp,USAS,79588568,Canada,1,40-F
+128,Sierra Metals,SMTS,74843552,Canada,1,40-F
+129,Vista Gold,VGZ,66150560,United States,1,10-K
+130,Avino Silver &amp; Gold Mines,ASM,60924692,Canada,1,20-F
+131,Petropavlovsk,POG.L,54701538,United Kingdom,1,NO-SEC-FILING
+132,Silver One Resources,SVE.V,48027963,Canada,1,NO-SEC-FILING
+133,Golden Minerals,AUMN,43514536,United States,1,10-K
+134,Comstock Mining,LODE,41730924,United States,1,10-K
+135,Brazil Minerals,BMIX,39534748,Brazil,1,10-K
+136,Great Panther Mining,GPL,38185764,Canada,1,"20-F, 40-F"
+137,Solitario Zinc,XPL,36309444,United States,1,10-K
+138,Orosur Mining,OMI.V,33037144,Canada,1,NO-SEC-FILING
+139,U.S. Gold Corp,USAU,30142922,United States,1,10-K
+140,Austin Gold,AUST,20704008,United States,1,NO-SEC-FILING
+141,Trillium Gold Mines,TGM.V,8653588,Canada,1,NO-SEC-FILING
