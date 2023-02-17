@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.2
+secedgar==0.5.0
+tqdm==4.64.1
+trafilatura==1.4.1
